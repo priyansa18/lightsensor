@@ -1,0 +1,16 @@
+{
+"companyName": "GT-Tech",
+"productName": "Light Sensor LDR V1",
+"productVersion": "0.1",
+"dataUrl": "Light Sensor LDR V1.data.unityweb",
+"wasmCodeUrl": "Light Sensor LDR V1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Light Sensor LDR V1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
